@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U2U Host</string>
+    <string name="local_prompt"><![CDATA[host> ]]></string>
+    <string name="info_text">Please plug-in some Android based device into USB that has the Usb2Usb Communicator ACCESSORY app installed</string>
+</resources>
